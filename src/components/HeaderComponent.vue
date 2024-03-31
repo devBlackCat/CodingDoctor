@@ -1,3 +1,4 @@
+<!-- /src/components/HeaderComponent.vue -->
 <template>
   <header class="header">
     <p class="navigation">{{ currentPageName }}</p>

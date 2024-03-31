@@ -1,3 +1,4 @@
+<!-- /src/components/MyPageComponent.vue -->
 <template>
   <HeaderComponent />
   <section class="container">

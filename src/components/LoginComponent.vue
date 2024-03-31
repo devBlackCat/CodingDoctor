@@ -1,3 +1,4 @@
+<!-- /src/components/LoginComponent.vue -->
 <template>
   <div class="login-container">
     <h2>로그인</h2>
@@ -85,7 +86,7 @@ export default {
 /* eslint-disable-next-line no-unused-vars */
 function onRecaptchaLoad() {
   grecaptcha.render('recaptcha-container', {
-    'sitekey' : '6Le9aagpAAAAAIMJ6i9w8Xa24Ah2rPrfBc0v9Y1C',
+    'sitekey' : 'API KEY',
     'callback' : onRecaptchaSuccess
   });
 }

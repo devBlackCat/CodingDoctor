@@ -76,7 +76,7 @@ export default {
       if (this.email && this.password && !this.emailError && !this.passwordError) {
         if (typeof grecaptcha !== 'undefined') {
           grecaptcha.enterprise.ready(async () => {
-            const token = await grecaptcha.enterprise.execute('6Le9aagpAAAAAIMJ6i9w8Xa24Ah2rPrfBc0v9Y1C', { action: 'submit' });
+            const token = await grecaptcha.enterprise.execute('API KEY', { action: 'submit' });
             this.registerWithRecaptchaToken(token);
           });
         } else {
