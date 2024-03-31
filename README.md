@@ -1,7 +1,7 @@
-```markdown
-# CodingDoctor
+프로젝트 이름: **CodingDoctor**
 
-CodingDoctor는 Vue.js와 Firebase를 이용하여 개발된 코딩 학습 웹 애플리케이션입니다. 사용자는 다양한 코딩 문제를 반복적으로 풀어보며 프로그래밍 실력을 향상시킬 수 있습니다. 이 플랫폼은 Firebase Authentication을 사용하여 사용자 인증을 처리하고, Firebase Database를 활용하여 사용자의 학습 진행 상태와 성과를 저장합니다.
+## 프로젝트 소개
+**CodingDoctor**는 Vue.js와 Firebase를 이용하여 개발된 코딩 학습 웹 애플리케이션입니다. 사용자는 다양한 코딩 문제를 반복적으로 풀어보며 프로그래밍 실력을 향상시킬 수 있습니다. 프로젝트는 Firebase Authentication을 사용하여 사용자 인증을 처리하고, Firebase Database를 활용하여 사용자의 학습 진행 상태와 성과를 저장합니다.
 
 ## 기능 목록
 
